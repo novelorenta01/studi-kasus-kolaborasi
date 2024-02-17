@@ -6,3 +6,6 @@ silahkan lakukan PR(pull-request)  seperti dibawah ini.
 
 Silahkan gunakan format berikut:
 **Nama, [Linkedin/Github].**
+* Nove Lorenta [Linkedin:(www.linkedin.com/in/
+lorenta-sihotang-a80b41296)
+
